@@ -1,5 +1,5 @@
 # Converting_Images
-## Using PILLOW (formerly, PIL) to convert images
+## Using PIL (Soon to be changed to PILLOW) to convert images
 
 # Finding an Original Image: 
 Image Source: https://en.wikipedia.org/wiki/Bernie_Sanders_mittens_meme
