@@ -18,3 +18,7 @@ Image Source: https://en.wikipedia.org/wiki/Bernie_Sanders_mittens_meme
 
 ## Result for a Monochrome image
 ![Pic 5](https://github.com/Baylex/Converting_Images/blob/main/Bernie_Sanders_monochrome.jpg)
+
+## Future Research:
+Using PIL for image classification:
+https://huggingface.co/google/vit-base-patch16-224
