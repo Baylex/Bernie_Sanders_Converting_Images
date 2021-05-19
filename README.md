@@ -1,5 +1,11 @@
-# Converting_Images
-## Using PIL (Soon to be changed to PILLOW) to convert images
+# Converting Images
+## Purpose and Process
+Transformation Waco needed a greyscaled logo to match with other logos for a communication project.
+I searched for a popular image to use for practice and landed on using the Bernie Sanders meme.
+
+## Using PIL library to convert images
+I used the PIL library in python and jupyter notebook.  
+Research showed that PIL is being retired and will soon be changed to PILLOW in future updates.
 
 # Finding an Original Image: 
 Image Source: https://en.wikipedia.org/wiki/Bernie_Sanders_mittens_meme
